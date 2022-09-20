@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @disputinnn
+- 👀 I’m interested in Software Development and Website Designing 
+- 🌱 I’m currently learning Full Stack Web Development
+- 📫 Reach me via Email- shashank.m748@gmail.com
